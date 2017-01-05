@@ -1,0 +1,36 @@
+
+/*function test(props) {
+  const testElement = <h3>{props}</h3>;
+  ReactDOM.render(
+  testElement,
+  document.getElementById('root'));
+}
+test("Piyush");*/
+
+/*function Welcome() {
+  const Element =  <h1> Welcome to Hotel California </h1>;
+  return Element;
+}
+ReactDOM.render(
+  Welcome(),document.getElementById('root')
+);*/
+
+/*function Welcome(props) {
+  const Element =  <h1> Welcome to Hotel California Mr.{props.FirstName} {props.LastName} </h1>;
+  return Element;
+}
+const Element = <Welcome FirstName="Piyush" LastName="Singhal" />
+ReactDOM.render(
+  Element,document.getElementById('root')
+);*/
+
+/*function Welcome(props) {
+  if(props==="Piyush")
+  return <h1>Hello, Mr.{props}</h1>;
+  else
+  return <h1>Byee Byee</h1>
+}
+
+ReactDOM.render(
+  Welcome("Piyus"),document.getElementById('root')
+)*/
