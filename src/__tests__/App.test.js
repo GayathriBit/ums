@@ -10,3 +10,8 @@ it('should add two numbers', () => {
 it('should subtract two numbers', () => {
     expect(2-1).toBe(1);
   });
+
+
+it('should multiply two numbers', () => {
+    expect(2*1).toBe(2);
+  });
