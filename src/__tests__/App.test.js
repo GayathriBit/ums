@@ -13,5 +13,5 @@ it('should subtract two numbers', () => {
 
 
 it('should multiply two numbers', () => {
-    expect(2*1).toBe(2);
+    expect(55*1).toBe(55);
   });
